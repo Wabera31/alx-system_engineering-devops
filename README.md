@@ -1,2 +1,2 @@
 #!/bin/bash
-0x00shell, basics
+0x00 Shell, basics
